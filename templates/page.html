@@ -1,5 +1,5 @@
-{{ define "title" }}sean lingren - {{ .Page.Title }}{{ end }}
-{{ define "description" }}{{ .Page.Description }}{{ end }}
+{{ define "title" }}{{ if .Page.Title }}sean lingren - {{ .Page.Title }}{{ else }}sean lingren{{ end }}{{ end }}
+{{ define "description" }}{{ if .Page.Description }}{{ .Page.Description }}{{ else }}sean lingren{{ end }}{{ end }}
 
 {{ define "content" }}
       <div class="page">

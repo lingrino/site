@@ -1,7 +1,5 @@
 ---
-title: sean lingren
 description: sean lingren
-template: home
 ---
 
 # sean lingren
@@ -12,7 +10,7 @@ principal engineer at [loom](https://www.loom.com/). leading our infrastructure 
 
 ## journal
 
-my [journal](./journal/) is a list of what I'm reading.
+see my [journal](./journal/) for a list of what i'm reading and [feeds](./feeds) for writing i subscribe to
 
 ## projects
 
@@ -28,6 +26,6 @@ my [journal](./journal/) is a list of what I'm reading.
 
 ## contact
 
-- sean@lingren.com
+- [sean@lingren.com](mailto:sean@lingren.com)
 - [github.com/lingrino](https://github.com/lingrino)
 - [linkedin.com/in/lingrino](https://www.linkedin.com/in/lingrino/)

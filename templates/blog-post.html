@@ -6,9 +6,10 @@
     <link rel="alternate" type="application/atom+xml" title="sean lingren - blog (atom)" href="/blog.atom">
 {{ end }}
 
+{{ define "backlink" }}<a href="/blog" class="back-link">← Blog</a>{{ end }}
+
 {{ define "content" }}
       <div class="blog">
-        <a href="/" class="back-link">← Home</a>
         <div class="blog-content">
           {{ .Page.Content }}
         </div>

@@ -28,7 +28,6 @@ const (
 
 // Template names
 const (
-	tmplHome      = "home"
 	tmplPage      = "page"
 	tmplBlogPost  = "blog-post"
 	tmplBlogIndex = "blog-index"

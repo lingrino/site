@@ -17,7 +17,6 @@ func (b *builder) loadTemplates() error {
 	basePath := filepath.Join(templatesDir, "base.html")
 
 	pageTemplates := []string{
-		tmplHome + ".html",
 		tmplPage + ".html",
 		tmplBlogPost + ".html",
 		tmplBlogIndex + ".html",
