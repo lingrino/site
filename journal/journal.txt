@@ -1716,3 +1716,4 @@
 1770118992 https://jmduke.com/posts/llm-advance-team.html
 1770223142 https://www.anthropic.com/news/claude-is-a-space-to-think
 1770227036 https://tigerstyle.dev/
+1770236094 https://variant.com/
