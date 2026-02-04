@@ -22,6 +22,28 @@ body {
   font-size: 15px;
 }
 
+.main > .back-link {
+  display: block;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 60px 20px 0;
+  font-size: 0.9rem;
+  color: #666;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.main > .back-link:hover {
+  color: #1a1a1a;
+}
+
+.main > .back-link + .page,
+.main > .back-link + .journal,
+.main > .back-link + .blog,
+.main > .back-link + .blog-index {
+  padding-top: 1.5rem;
+}
+
 .page {
   margin: 0 auto;
   max-width: 640px;
@@ -147,19 +169,6 @@ body {
   text-decoration-color: #1a1a1a;
 }
 
-.journal .back-link {
-  display: inline-block;
-  margin-bottom: 1.5rem;
-  font-size: 0.9rem;
-  color: #666;
-  text-decoration: none;
-  transition: color 0.2s ease;
-}
-
-.journal .back-link:hover {
-  color: #1a1a1a;
-}
-
 .journal .journal-url a {
   color: #555;
 }
@@ -168,19 +177,6 @@ body {
   margin: 0 auto;
   max-width: 640px;
   padding: 60px 20px 40px;
-}
-
-.blog .back-link {
-  display: inline-block;
-  margin-bottom: 1.5rem;
-  font-size: 0.9rem;
-  color: #666;
-  text-decoration: none;
-  transition: color 0.2s ease;
-}
-
-.blog .back-link:hover {
-  color: #1a1a1a;
 }
 
 .blog-content {
@@ -281,19 +277,6 @@ body {
   margin-bottom: 2rem;
   letter-spacing: -0.02em;
   line-height: 1.2;
-}
-
-.blog-index .back-link {
-  display: inline-block;
-  margin-bottom: 1.5rem;
-  font-size: 0.9rem;
-  color: #666;
-  text-decoration: none;
-  transition: color 0.2s ease;
-}
-
-.blog-index .back-link:hover {
-  color: #1a1a1a;
 }
 
 .blog-index-list {

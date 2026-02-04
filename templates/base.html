@@ -77,6 +77,7 @@
 
   <body>
     <div class="main">
+      {{ block "backlink" . }}{{ if ne .Page.URL "/" }}<a href="/" class="back-link">← Home</a>{{ end }}{{ end }}
       {{ block "content" . }}{{ end }}
     </div>
   </body>
