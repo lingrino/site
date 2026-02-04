@@ -22,13 +22,13 @@ body {
   font-size: 15px;
 }
 
-.home {
+.page {
   margin: 0 auto;
   max-width: 640px;
   padding: 60px 20px 40px;
 }
 
-.home h1 {
+.page h1 {
   font-size: 1.8rem;
   font-weight: 500;
   margin-bottom: 2rem;
@@ -36,7 +36,7 @@ body {
   line-height: 1.2;
 }
 
-.home h2 {
+.page h2 {
   font-size: 1.1rem;
   font-weight: 500;
   margin: 3rem 0 1rem 0;
@@ -44,27 +44,27 @@ body {
   letter-spacing: -0.01em;
 }
 
-.home h2:first-of-type {
+.page h2:first-of-type {
   margin-top: 0;
 }
 
-.home p {
+.page p {
   margin-bottom: 1.2rem;
   line-height: 1.65;
 }
 
-.home ul {
+.page ul {
   list-style: none;
   margin-bottom: 1.5rem;
 }
 
-.home li {
+.page li {
   padding: 0.4rem 0;
   position: relative;
   padding-left: 1rem;
 }
 
-.home li::before {
+.page li::before {
   content: "·";
   position: absolute;
   left: 0;
@@ -74,7 +74,7 @@ body {
   line-height: 1.3;
 }
 
-.home a {
+.page a {
   color: #1a1a1a;
   text-decoration: underline;
   text-decoration-color: #ccc;
@@ -83,22 +83,13 @@ body {
   transition: text-decoration-color 0.2s ease;
 }
 
-.home a:hover {
+.page a:hover {
   text-decoration-color: #1a1a1a;
 }
 
-.home li a:first-child {
+.page li a:first-child {
   font-weight: 500;
   color: #000;
-}
-
-/* Contact section: list immediately after #contact heading has no bullets */
-.home #contact + ul li {
-  padding-left: 0;
-}
-
-.home #contact + ul li::before {
-  display: none;
 }
 
 .journal {

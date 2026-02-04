@@ -65,7 +65,7 @@ writing i subscribe to
 - [Julian Lehr](https://julian.digital)
 - [Justin Duke Weeknotes](https://weeknotes.buttondown.email)
 - [Justin Duke](https://jmduke.com)
-- [Kaylee](https://kaylees.site//)
+- [Kaylee](https://kaylees.site)
 - [Krishna Sundarram](https://nindalf.com/)
 - [Last Week in AWS](https://www.lastweekinaws.com/)
 - [Lawrence Jones](https://blog.lawrencejones.dev/)

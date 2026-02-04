@@ -138,7 +138,7 @@ func (b *builder) determineTemplate(path string, pg *page) string {
 
 	switch classifyPath(path) {
 	case pathHome:
-		return tmplHome
+		return tmplPage
 	case pathJournal:
 		return tmplJournal
 	case pathBlogIndex:

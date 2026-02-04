@@ -1,7 +1,5 @@
 ---
-title: sean lingren
 description: sean lingren
-template: home
 ---
 
 # sean lingren
@@ -28,6 +26,6 @@ see my [journal](./journal/) for a list of what i'm reading and [feeds](./feeds)
 
 ## contact
 
-- <sean@lingren.com>
+- [sean@lingren.com](mailto:sean@lingren.com)
 - [github.com/lingrino](https://github.com/lingrino)
 - [linkedin.com/in/lingrino](https://www.linkedin.com/in/lingrino/)
