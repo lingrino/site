@@ -1729,3 +1729,4 @@
 1770267237 https://edbatista.com/2026/01/raise-or-sell-or-quit.html
 1770272418 https://mirage.app/
 1770316209 https://www.anthropic.com/news/claude-opus-4-6
+1770321102 https://openai.com/index/introducing-gpt-5-3-codex/
