@@ -1725,3 +1725,4 @@
 1770241435 https://greatmemos.com
 1770254171 https://github.com/openai/codex/issues/10582
 1770266331 https://flappingairplanes.com/
+1770266808 https://noahkalina.substack.com/p/newsletter-190-vibe-coding-at-the
