@@ -1723,3 +1723,4 @@
 1770239613 https://wesmckinney.com/blog/agent-ergonomics/
 1770239653 https://wesmckinney.com/blog/why-not/
 1770241435 https://greatmemos.com
+1770254171 https://github.com/openai/codex/issues/10582
