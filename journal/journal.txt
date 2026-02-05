@@ -1726,3 +1726,4 @@
 1770254171 https://github.com/openai/codex/issues/10582
 1770266331 https://flappingairplanes.com/
 1770266808 https://noahkalina.substack.com/p/newsletter-190-vibe-coding-at-the
+1770267237 https://edbatista.com/2026/01/raise-or-sell-or-quit.html
