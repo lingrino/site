@@ -1732,3 +1732,4 @@
 1770321102 https://openai.com/index/introducing-gpt-5-3-codex/
 1770321826 https://vmux.sdan.io/
 1770322717 https://www.dwarkesh.com/p/notes-on-space-gpus
+1770352257 https://boz.com/articles/ideas-implementation
