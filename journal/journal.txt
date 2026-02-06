@@ -1734,3 +1734,4 @@
 1770322717 https://www.dwarkesh.com/p/notes-on-space-gpus
 1770352257 https://boz.com/articles/ideas-implementation
 1770354022 https://mtlynch.io/bootstrapped-founder-year-8/
+1770354618 https://mitchellh.com/writing/my-ai-adoption-journey
