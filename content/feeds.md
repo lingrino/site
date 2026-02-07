@@ -25,6 +25,7 @@ writing i subscribe to
 - [Brandur](https://brandur.org)
 - [Brent Chapman](https://greatcircle.com)
 - [Brent Simmons](https://inessential.com/)
+- [Brian Lovin](https://brianlovin.com)
 - [Bryan Cantrill](https://bcantrill.dtrace.org/)
 - [Buster Benson](https://busterbenson.com/)
 - [Byrne Hobart](https://www.thediff.co)
