@@ -1741,3 +1741,4 @@
 1770439170 https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html
 1770442056 https://youtube.com/watch?v=l4dCJJFuMsE&si=zMSqcjEoiekR4HoM
 1770532453 https://seangoedecke.com/heroism/
+1770532550 https://www.jmduke.com/posts/insourcing-your-data-warehouse.html
