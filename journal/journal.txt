@@ -1743,3 +1743,4 @@
 1770532453 https://seangoedecke.com/heroism/
 1770532550 https://www.jmduke.com/posts/insourcing-your-data-warehouse.html
 1770532619 http://brooker.co.za/blog/2026/02/07/you-are-here.html
+1770542717 https://crawshaw.io/blog/eight-more-months-of-agents
