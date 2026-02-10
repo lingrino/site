@@ -1748,3 +1748,4 @@
 1770621016 https://brandur.org/nanoglyphs/048-llms
 1770670751 https://www.bitsaboutmoney.com/archive/fraud-investigation/
 1770693248 https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents
+1770749684 https://entire.io/
