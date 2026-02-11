@@ -1757,3 +1757,4 @@
 1770770490 https://docs.stripe.com/payments/machine
 1770771782 https://brianlovin.com/writing/use-the-hyper-key-o5ozwGC
 1770797349 https://github.com/Ataraxy-Labs/weave
+1770844892 https://boristane.com/blog/how-i-use-claude-code/
