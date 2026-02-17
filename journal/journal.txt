@@ -1772,3 +1772,4 @@
 1771267771 https://noahkalina.substack.com/p/newsletter-192-my-neighbor-has-an
 1771280277 https://xslt.rip/
 1771289884 https://cloud.google.com/blog/topics/developers-practitioners/how-google-sres-use-gemini-cli-to-solve-real-world-outages
+1771355057 https://www.anthropic.com/news/claude-sonnet-4-6
