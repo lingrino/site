@@ -6,7 +6,7 @@ description: sean lingren
 
 ## work
 
-principal engineer at [loom](https://www.loom.com/). leading our infrastructure org. loom was [acquired by atlassian](https://www.atlassian.com/blog/announcements/atlassian-acquires-loom) in october 2023.
+senior principal engineer at [loom](https://www.loom.com/). leading our infrastructure org. loom was [acquired by atlassian](https://www.atlassian.com/blog/announcements/atlassian-acquires-loom) in october 2023.
 
 ## journal
 
