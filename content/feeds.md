@@ -124,4 +124,5 @@ writing i subscribe to
 - [Wes McKinney](https://wesmckinney.com/archives)
 - [Will Larson](https://lethain.com/)
 - [Yossi Kreinin](https://yosefk.com/blog)
+- [Zach Waugh](https://zachwaugh.com/)
 - [Zhengdong Wang](https://zhengdongwang.com/)
