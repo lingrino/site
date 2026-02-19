@@ -1775,3 +1775,4 @@
 1771355057 https://www.anthropic.com/news/claude-sonnet-4-6
 1771475095 https://jvns.ca/blog/2026/02/18/man-pages/
 1771475229 https://buttondown.com/thirdsouthcapital/archive/january-2026-notes/
+1771475426 https://mylesmarino.com/posts/ai-vendors.html
