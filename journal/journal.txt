@@ -1778,3 +1778,4 @@
 1771475426 https://mylesmarino.com/posts/ai-vendors.html
 1771478578 https://netflixtechblog.com/automating-rds-postgres-to-aurora-postgres-migration-261ca045447f
 1771618791 https://www.anthropic.com/engineering/code-execution-with-mcp
+1771629906 https://words.filippo.io/dependabot/
