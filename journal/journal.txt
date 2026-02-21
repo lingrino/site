@@ -1779,3 +1779,4 @@
 1771478578 https://netflixtechblog.com/automating-rds-postgres-to-aurora-postgres-migration-261ca045447f
 1771618791 https://www.anthropic.com/engineering/code-execution-with-mcp
 1771629906 https://words.filippo.io/dependabot/
+1771638719 https://www.aboutamazon.com/news/aws/aws-service-outage-ai-bot-kiro?sc_channel=sm&sc_campaign=Support&sc_publisher=TWITTER&sc_country=global&sc_geo=GLOBAL&sc_outcome=AWS%20Support&sc_content=Support&trk=Support&linkId=909439877
