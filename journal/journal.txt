@@ -1782,3 +1782,4 @@
 1771638719 https://www.aboutamazon.com/news/aws/aws-service-outage-ai-bot-kiro1771639813 https://www.raindrop.ai/
 1771645742 https://umbrel.com/
 1771702365 https://blog.cloudflare.com/cloudflare-outage-february-20-2026/
+1771748520 https://boristane.com/blog/the-software-development-lifecycle-is-dead/
