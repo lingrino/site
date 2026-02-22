@@ -1785,3 +1785,4 @@
 1771748520 https://boristane.com/blog/the-software-development-lifecycle-is-dead/
 1771749469 https://chrisgillett.org/different-kinds-of-utilities
 1771788927 https://unsung.aresluna.org/living-in-the-upside-down
+1771789510 https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/
