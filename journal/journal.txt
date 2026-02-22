@@ -1784,3 +1784,4 @@
 1771702365 https://blog.cloudflare.com/cloudflare-outage-february-20-2026/
 1771748520 https://boristane.com/blog/the-software-development-lifecycle-is-dead/
 1771749469 https://chrisgillett.org/different-kinds-of-utilities
+1771788927 https://unsung.aresluna.org/living-in-the-upside-down
