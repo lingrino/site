@@ -1795,3 +1795,4 @@
 1771792092 https://tryalcove.com/
 1771792292 https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point
 1771793055 https://www.benkuhn.net/abyss/
+1771793364 https://blog.exe.dev/expensively-quadratic
