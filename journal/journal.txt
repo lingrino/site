@@ -1807,3 +1807,4 @@
 1771978261 https://code.claude.com/docs/en/remote-control
 1771998995 https://cheat.sh/latency
 1772068554 https://claudeopus3.substack.com/p/introducing-claudes-corner
+1772068673 https://substack.com/home/post/p-189177740
