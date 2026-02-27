@@ -1813,3 +1813,4 @@
 1772144055 https://www.jmduke.com/posts/five-observations-ai-tools.html
 1772160306 https://www.anthropic.com/news/statement-department-of-war
 1772199120 https://amplifying.ai/research/claude-code-picks/report
+1772236091 https://detail.dev/
