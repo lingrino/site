@@ -1815,3 +1815,4 @@
 1772199120 https://amplifying.ai/research/claude-code-picks/report
 1772236091 https://detail.dev/
 1772236587 https://www.readout.org/
+1772245942 https://www.anthropic.com/news/statement-comments-secretary-war
