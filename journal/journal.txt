@@ -1819,3 +1819,4 @@
 1772256063 https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/
 1772344558 https://background-agents.com/
 1772398436 https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html
+1772398713 https://go.dev/blog/allocation-optimizations
