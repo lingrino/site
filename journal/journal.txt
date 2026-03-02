@@ -1821,3 +1821,4 @@
 1772398436 https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html
 1772398713 https://go.dev/blog/allocation-optimizations
 1772398876 https://planetscale.com/blog/video-conferencing-with-postgres
+1772437251 https://nominal.dev/
