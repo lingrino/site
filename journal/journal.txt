@@ -1824,3 +1824,4 @@
 1772437251 https://nominal.dev/
 1772439460 https://strn.cat/w/articles/spacetime/
 1772733498 https://blog.tangled.org/seed
+1772735665 https://openai.com/index/gpt-5-4-thinking-system-card/
