@@ -1826,3 +1826,4 @@
 1772733498 https://blog.tangled.org/seed
 1772735665 https://openai.com/index/gpt-5-4-thinking-system-card/
 1772761909 https://www.anthropic.com/news/where-stand-department-war
+1772765204 https://unsung.aresluna.org/im-obviously-taking-a-risk-here-by-advertising-emoji-directly
