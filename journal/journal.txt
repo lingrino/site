@@ -1834,3 +1834,4 @@
 1772999704 https://stonetools.ghost.io/
 1773000044 https://seangoedecke.com/will-my-job-still-exist/
 1773000136 https://buttondown.com/thirdsouthcapital/archive/february-2026-notes/
+1773000233 https://planetscale.com/blog/drizzle-joins-planetscale
