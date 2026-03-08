@@ -1842,3 +1842,4 @@
 1773001228 http://antirez.com/news/162
 1773001592 https://buttondown.com/myles/archive/february-2026-updates/
 1773002585 https://endowment.dev/
+1773004599 http://brooker.co.za/blog/2026/02/25/sfq.html
