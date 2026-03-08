@@ -1836,3 +1836,4 @@
 1773000136 https://buttondown.com/thirdsouthcapital/archive/february-2026-notes/
 1773000233 https://planetscale.com/blog/drizzle-joins-planetscale
 1773000346 https://tonsky.me/blog/fall-of-native/
+1773000470 https://jmduke.com/posts/pydantic-v2.html
