@@ -1828,3 +1828,4 @@
 1772761909 https://www.anthropic.com/news/where-stand-department-war
 1772765204 https://unsung.aresluna.org/im-obviously-taking-a-risk-here-by-advertising-emoji-directly
 1772953809 https://www.vantage.sh/models
+1772959166 https://www.honeycomb.io/blog/incident-report-exercises-cleanups-and-evacuations
