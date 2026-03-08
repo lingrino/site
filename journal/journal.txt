@@ -1845,3 +1845,4 @@
 1773004599 http://brooker.co.za/blog/2026/02/25/sfq.html
 1773006120 https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/
 1773006488 https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf
+1773006856 https://github.com/googleworkspace/cli?tab=readme-ov-file
