@@ -1830,3 +1830,4 @@
 1772953809 https://www.vantage.sh/models
 1772959166 https://www.honeycomb.io/blog/incident-report-exercises-cleanups-and-evacuations
 1772999512 https://www.adaptivecapacitylabs.com/2026/03/07/organizational-second-hit-syndrome/
+1772999650 https://surfingcomplexity.blog/2026/03/07/grow-fast-and-overload-things/
