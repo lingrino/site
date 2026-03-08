@@ -1841,3 +1841,4 @@
 1773000875 https://arun.is/blog/arun-is-3/
 1773001228 http://antirez.com/news/162
 1773001592 https://buttondown.com/myles/archive/february-2026-updates/
+1773002585 https://endowment.dev/
