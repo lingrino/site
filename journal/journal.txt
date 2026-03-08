@@ -1837,3 +1837,4 @@
 1773000233 https://planetscale.com/blog/drizzle-joins-planetscale
 1773000346 https://tonsky.me/blog/fall-of-native/
 1773000470 https://jmduke.com/posts/pydantic-v2.html
+1773000776 https://windowsontheory.org/2026/03/03/mass-surveillance-red-lines-and-a-crazy-weekend/
