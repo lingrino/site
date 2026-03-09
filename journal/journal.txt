@@ -1847,3 +1847,4 @@
 1773006488 https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf
 1773006856 https://github.com/googleworkspace/cli?tab=readme-ov-file
 1773007033 https://danielgross.com/agitrades
+1773098896 https://ghostty.org/docs/install/release-notes/1-3-0
