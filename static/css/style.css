@@ -166,6 +166,11 @@ body {
   gap: 1rem;
   padding: 0.4rem 0;
   border-bottom: 1px solid var(--color-border);
+  scroll-margin-top: 2rem;
+}
+
+.journal-entry:target {
+  background-color: var(--color-bg-code);
 }
 
 .journal-entry:last-child {
@@ -176,6 +181,25 @@ body {
   white-space: nowrap;
   color: var(--color-text-secondary);
   font-weight: 400;
+  position: relative;
+}
+
+.journal-anchor {
+  position: absolute;
+  right: 100%;
+  padding-right: 0.4rem;
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+.journal-entry:hover .journal-anchor {
+  opacity: 1;
+}
+
+.journal-anchor:hover {
+  color: var(--color-text);
 }
 
 .journal-url {
@@ -183,7 +207,7 @@ body {
   overflow-wrap: break-word;
 }
 
-.journal a {
+.journal a:not(.journal-date) {
   color: var(--color-text);
   text-decoration: underline;
   text-decoration-color: var(--color-underline);
@@ -192,7 +216,7 @@ body {
   transition: text-decoration-color 0.2s ease;
 }
 
-.journal a:hover {
+.journal a:not(.journal-date):hover {
   text-decoration-color: var(--color-text);
 }
 
