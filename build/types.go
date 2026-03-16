@@ -82,6 +82,7 @@ type journal struct {
 	DateRSS   string
 	DateAtom  string
 	URL       string
+	ID        string
 }
 
 // blogPost represents a blog post

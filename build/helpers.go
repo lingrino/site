@@ -116,5 +116,17 @@ func loadJournal(loc *time.Location) ([]journal, error) {
 		return cmp.Compare(b.Timestamp, a.Timestamp)
 	})
 
+	// Assign stable anchor IDs based on timestamp, disambiguating duplicates
+	seen := make(map[int64]int)
+	for i := range entries {
+		ts := entries[i].Timestamp
+		seen[ts]++
+		if seen[ts] == 1 {
+			entries[i].ID = strconv.FormatInt(ts, 10)
+		} else {
+			entries[i].ID = strconv.FormatInt(ts, 10) + "-" + strconv.Itoa(seen[ts])
+		}
+	}
+
 	return entries, nil
 }
