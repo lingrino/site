@@ -1858,3 +1858,4 @@
 1773543305 https://antithesis.com/blog/2026/carcinization/
 1773543722 https://planetscale.com/blog/scaling-postgres-connections-with-pgbouncer
 1773631352 https://turbopuffer.com/blog/zero-cost
+1773701862 https://github.com/basecamp/once
