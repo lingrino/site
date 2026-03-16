@@ -1857,3 +1857,4 @@
 1773541703 https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/
 1773543305 https://antithesis.com/blog/2026/carcinization/
 1773543722 https://planetscale.com/blog/scaling-postgres-connections-with-pgbouncer
+1773631352 https://turbopuffer.com/blog/zero-cost
