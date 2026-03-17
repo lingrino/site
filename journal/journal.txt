@@ -1859,3 +1859,4 @@
 1773543722 https://planetscale.com/blog/scaling-postgres-connections-with-pgbouncer
 1773631352 https://turbopuffer.com/blog/zero-cost
 1773701862 https://github.com/basecamp/once
+1773728819 https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-s3-account-regional-namespaces/
