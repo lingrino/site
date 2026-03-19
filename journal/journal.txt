@@ -1862,3 +1862,4 @@
 1773728819 https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-s3-account-regional-namespaces/
 1773939580 https://jmduke.com/posts/what-i-would-be-doing.html
 1773950708 https://www.jmduke.com/posts/how-i-saved-100.html
+1773950814 https://apenwarr.ca/log/20260316
