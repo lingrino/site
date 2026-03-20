@@ -1864,3 +1864,4 @@
 1773950708 https://www.jmduke.com/posts/how-i-saved-100.html
 1773950814 https://apenwarr.ca/log/20260316
 1773958745 https://cursor.com/glass
+1773979341 https://github.com/imbue-ai/offload
