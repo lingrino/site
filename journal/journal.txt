@@ -1866,3 +1866,4 @@
 1773958745 https://cursor.com/glass
 1773979341 https://github.com/imbue-ai/offload
 1774059165 https://claude.com/blog/product-management-on-the-ai-exponential
+1774217067 https://confer.to/blog/2026/03/encrypted-meta/
