@@ -1869,3 +1869,4 @@
 1774217067 https://confer.to/blog/2026/03/encrypted-meta/
 1774331436 https://planetscale.com/blog/introducing-database-traffic-control
 1774397294 https://linear.app/next
+1774412975 https://depot.dev/products/ci
