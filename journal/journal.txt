@@ -1870,3 +1870,4 @@
 1774331436 https://planetscale.com/blog/introducing-database-traffic-control
 1774397294 https://linear.app/next
 1774412975 https://depot.dev/products/ci
+1774416227 https://antithesis.com/blog/2026/hegel/
