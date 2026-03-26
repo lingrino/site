@@ -1873,3 +1873,4 @@
 1774416227 https://antithesis.com/blog/2026/hegel/
 1774417037 https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/
 1774417281 https://blog.cloudflare.com/dynamic-workers/
+1774497106 https://mirendil.com/
