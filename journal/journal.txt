@@ -1880,3 +1880,4 @@
 1774562912 https://planetscale.com/blog/behind-the-scenes-how-traffic-control-works
 1774665945 https://jmduke.com/posts/film-blogger.html
 1774666513 https://dropbox.tech/infrastructure/reducing-our-monorepo-size-to-improve-developer-velocity
+1774828314 https://lethain.com/agentic-passive-voice/
