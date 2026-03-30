@@ -47,13 +47,14 @@ body {
   font-family: "berkeley-mono-variable", ui-monospace, monospace;
   font-weight: 400;
   font-size: 16px;
+  letter-spacing: -0.01em;
 }
 
 .main > .back-link {
   display: block;
   max-width: 640px;
   margin: 0 auto;
-  padding: 60px 20px 0;
+  padding: 40px 24px 0;
   font-size: 0.9rem;
   color: var(--color-text-secondary);
   text-decoration: none;
@@ -74,7 +75,7 @@ body {
 .page {
   margin: 0 auto;
   max-width: 640px;
-  padding: 60px 20px 60px;
+  padding: 60px 24px 60px;
 }
 
 .page h1 {
@@ -144,7 +145,7 @@ body {
 .journal {
   margin: 0 auto;
   max-width: 640px;
-  padding: 60px 20px 60px;
+  padding: 60px 24px 60px;
 }
 
 .journal h1 {
@@ -163,7 +164,7 @@ body {
 .journal-entry {
   display: grid;
   grid-template-columns: auto 1fr;
-  gap: 1rem;
+  gap: 1.5rem;
   padding: 0.4rem 0;
   border-bottom: 1px solid var(--color-border);
   scroll-margin-top: 2rem;
@@ -227,7 +228,7 @@ body {
 .blog {
   margin: 0 auto;
   max-width: 640px;
-  padding: 60px 20px 60px;
+  padding: 60px 24px 60px;
 }
 
 .blog-content {
@@ -287,7 +288,7 @@ body {
   background-color: var(--color-bg-code);
   padding: 0.2em 0.4em;
   border-radius: 3px;
-  font-size: 0.9em;
+  font-size: 0.95em;
 }
 
 .blog-content pre {
@@ -304,7 +305,7 @@ body {
 }
 
 .blog-content blockquote {
-  border-left: 3px solid var(--color-blockquote-border);
+  border-left: 2px solid var(--color-blockquote-border);
   padding-left: 1rem;
   margin: 1.2rem 0;
   color: var(--color-text-secondary);
@@ -319,7 +320,7 @@ body {
 .blog-index {
   margin: 0 auto;
   max-width: 640px;
-  padding: 60px 20px 60px;
+  padding: 60px 24px 60px;
 }
 
 .blog-index h1 {
@@ -338,7 +339,7 @@ body {
 .blog-index-entry {
   display: grid;
   grid-template-columns: auto 1fr;
-  gap: 1rem;
+  gap: 1.5rem;
   padding: 0.4rem 0;
   border-bottom: 1px solid var(--color-border);
 }
