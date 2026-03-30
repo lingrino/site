@@ -1882,3 +1882,4 @@
 1774666513 https://dropbox.tech/infrastructure/reducing-our-monorepo-size-to-improve-developer-velocity
 1774828314 https://lethain.com/agentic-passive-voice/
 1774835072 https://seangoedecke.com/working-on-products-people-hate/
+1774836138 https://zhengdongwang.com/2026/03/17/the-means-of-some-change.html
