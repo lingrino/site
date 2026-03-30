@@ -5,13 +5,13 @@
 
 :root {
   color-scheme: light dark;
-  --color-text: #1a1a1a;
+  --color-text: #333;
   --color-text-heading: #000;
   --color-text-secondary: #666;
   --color-text-tertiary: #555;
-  --color-bg: #fafafa;
+  --color-bg: #fff;
   --color-bg-code: #f0f0f0;
-  --color-border: #f0f0f0;
+  --color-border: #e0e0e0;
   --color-underline: #ccc;
   --color-blockquote-border: #ccc;
 }
@@ -19,7 +19,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --color-text: #e0e0e0;
-    --color-text-heading: #f0f0f0;
+    --color-text-heading: #e8e8e8;
     --color-text-secondary: #999;
     --color-text-tertiary: #aaa;
     --color-bg: #121212;
@@ -46,7 +46,7 @@ body {
 .main {
   font-family: "berkeley-mono-variable", ui-monospace, monospace;
   font-weight: 400;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .main > .back-link {
@@ -74,7 +74,7 @@ body {
 .page {
   margin: 0 auto;
   max-width: 640px;
-  padding: 60px 20px 40px;
+  padding: 60px 20px 60px;
 }
 
 .page h1 {
@@ -98,7 +98,7 @@ body {
 }
 
 .page p {
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.4rem;
   line-height: 1.65;
 }
 
@@ -144,7 +144,7 @@ body {
 .journal {
   margin: 0 auto;
   max-width: 640px;
-  padding: 60px 20px 40px;
+  padding: 60px 20px 60px;
 }
 
 .journal h1 {
@@ -227,7 +227,7 @@ body {
 .blog {
   margin: 0 auto;
   max-width: 640px;
-  padding: 60px 20px 40px;
+  padding: 60px 20px 60px;
 }
 
 .blog-content {
@@ -237,7 +237,7 @@ body {
 .blog-content h1 {
   font-size: 1.8rem;
   font-weight: 500;
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem;
   letter-spacing: -0.02em;
   line-height: 1.2;
 }
@@ -258,7 +258,7 @@ body {
 }
 
 .blog-content p {
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.4rem;
 }
 
 .blog-content ul,
@@ -319,7 +319,7 @@ body {
 .blog-index {
   margin: 0 auto;
   max-width: 640px;
-  padding: 60px 20px 40px;
+  padding: 60px 20px 60px;
 }
 
 .blog-index h1 {
