@@ -1888,3 +1888,4 @@
 1774949671 https://confer.to/blog/2026/03/encrypted-memory/
 1775169907 https://tailscale.com/blog/adult-in-the-room
 1775273283 https://unsung.aresluna.org/it-moved-too-slowly-to-be-an-asteroid
+1775427494 https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/
