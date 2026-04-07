@@ -1890,3 +1890,4 @@
 1775273283 https://unsung.aresluna.org/it-moved-too-slowly-to-be-an-asteroid
 1775427494 https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/
 1775585676 https://www.anthropic.com/glasswing
+1775596252 https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/
