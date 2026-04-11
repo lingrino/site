@@ -1895,3 +1895,4 @@
 1775665558 https://tailscale.com/blog/pricing-v4
 1775672771 https://claude.com/blog/claude-managed-agents
 1775866218 https://blog.samaltman.com/2279512
+1775868898 https://brandur.org/second-wave-api-first
