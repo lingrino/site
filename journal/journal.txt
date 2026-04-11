@@ -1894,3 +1894,4 @@
 1775664517 https://mariozechner.at/posts/2026-04-08-ive-sold-out/
 1775665558 https://tailscale.com/blog/pricing-v4
 1775672771 https://claude.com/blog/claude-managed-agents
+1775866218 https://blog.samaltman.com/2279512
