@@ -1904,3 +1904,4 @@
 1776174518 https://mitchellh.com/writing/building-block-economy
 1776174801 https://mtlynch.io/claude-code-found-linux-vulnerability/
 1776174926 https://jmduke.com/posts/software-never-had-a-soul.html
+1776175449 https://blog.exe.dev/prompt-engineering-is-dead
