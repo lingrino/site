@@ -1900,3 +1900,4 @@
 1776171521 https://brennan.day/the-end-of-eleventy/
 1776173650 https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/
 1776173759 https://planetscale.com/blog/keeping-a-postgres-queue-healthy
+1776173972 http://brooker.co.za/blog/2026/04/09/waterfall-vs-spec.html
