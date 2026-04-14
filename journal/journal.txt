@@ -1903,3 +1903,4 @@
 1776173972 http://brooker.co.za/blog/2026/04/09/waterfall-vs-spec.html
 1776174518 https://mitchellh.com/writing/building-block-economy
 1776174801 https://mtlynch.io/claude-code-found-linux-vulnerability/
+1776174926 https://jmduke.com/posts/software-never-had-a-soul.html
