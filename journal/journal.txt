@@ -1909,3 +1909,4 @@
 1776177641 https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-s3-files/
 1776181251 https://surfingcomplexity.blog/2026/04/12/thoughts-on-the-bluesky-public-incident-write-up/
 1776181598 https://tech.stonecharioteer.com/posts/2026/traceroute/
+1776181900 http://brooker.co.za/blog/2026/03/20/ic-leadership.html
