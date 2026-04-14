@@ -1912,3 +1912,4 @@
 1776181900 http://brooker.co.za/blog/2026/03/20/ic-leadership.html
 1776182077 http://brooker.co.za/blog/2026/03/25/ic-junior.html
 1776191991 https://code.claude.com/docs/en/routines
+1776206961 https://lazarus.turing.com/
