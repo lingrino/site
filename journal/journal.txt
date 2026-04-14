@@ -1907,3 +1907,4 @@
 1776175449 https://blog.exe.dev/prompt-engineering-is-dead
 1776175520 https://blog.cloudflare.com/mesh/
 1776177641 https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-s3-files/
+1776181251 https://surfingcomplexity.blog/2026/04/12/thoughts-on-the-bluesky-public-incident-write-up/
