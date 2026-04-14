@@ -1901,3 +1901,4 @@
 1776173650 https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/
 1776173759 https://planetscale.com/blog/keeping-a-postgres-queue-healthy
 1776173972 http://brooker.co.za/blog/2026/04/09/waterfall-vs-spec.html
+1776174518 https://mitchellh.com/writing/building-block-economy
