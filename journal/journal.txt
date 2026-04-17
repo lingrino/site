@@ -1917,3 +1917,4 @@
 1776214862 https://github.com/atoms-co/splitter
 1776423144 https://blog.cloudflare.com/artifacts-git-for-agents-beta/
 1776423632 https://blog.cloudflare.com/email-for-agents/
+1776447977 https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/
