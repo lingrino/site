@@ -1926,3 +1926,4 @@
 1776820611 https://jmduke.com/posts/the-maelstrom.html
 1776831664 https://www.jefftk.com/p/automated-deanonymization-is-here
 1776831975 https://planetscale.com/blog/approaches-to-tenancy-in-postgres
+1776876861 https://crawshaw.io/blog/building-a-cloud
