@@ -14,6 +14,7 @@ see my [journal](./journal/) for a list of what i'm reading and [feeds](./feeds)
 
 ## projects
 
+- [agent-archiver](https://github.com/lingrino/agent-archiver): agent-powered tool to save web content as markdown, with youtube transcription, x.com support, and llm summaries.
 - [vaku](https://github.com/lingrino/vaku): cli and go library wrapping a vault client for useful k/v functions like searching, copying, and deleting folders.
 - [uptime](https://uptime.how/): convert availability percentages into durations.
 - [go-fault](https://github.com/lingrino/go-fault): fault injection library in go on top of standard net/http middleware. written at github.
