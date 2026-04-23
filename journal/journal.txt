@@ -1930,3 +1930,4 @@
 1776884910 https://trees.software/
 1776928805 https://github.com/openai/privacy-filter
 1776973299 https://colossus.com/article/inside-cursor/
+1776973809 https://unsung.aresluna.org/out-of-touch/
