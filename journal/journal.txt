@@ -1932,3 +1932,4 @@
 1776973299 https://colossus.com/article/inside-cursor/
 1776973809 https://unsung.aresluna.org/out-of-touch/
 1776974303 https://openai.com/index/introducing-gpt-5-5/
+1777051051 https://www.dwarkesh.com/p/blog-prize
