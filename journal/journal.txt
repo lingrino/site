@@ -1938,3 +1938,4 @@
 1777091894 https://ando.so/
 1777140804 https://maxread.substack.com/p/a-literary-history-of-fake-texts
 1777142177 https://www.anthropic.com/engineering/april-23-postmortem
+1777142770 https://workingintelligence.ai/posts/manifesto/
