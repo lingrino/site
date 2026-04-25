@@ -1937,3 +1937,4 @@
 1777088539 https://www.benkuhn.net/contra/
 1777091894 https://ando.so/
 1777140804 https://maxread.substack.com/p/a-literary-history-of-fake-texts
+1777142177 https://www.anthropic.com/engineering/april-23-postmortem
