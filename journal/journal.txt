@@ -1940,3 +1940,4 @@
 1777142177 https://www.anthropic.com/engineering/april-23-postmortem
 1777142770 https://workingintelligence.ai/posts/manifesto/
 1777143808 https://www.intercom.com/blog/ai-is-approving-our-pull-requests-heres-how-we-made-it-safe/
+1777244586 https://timzaman.com/getting-into-ai-infra
