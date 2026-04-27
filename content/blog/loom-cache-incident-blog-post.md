@@ -2,7 +2,7 @@
 date: 2026-04-10
 ---
 
-Below is a copy of the public blog post following Loom's March 7, 2023 caching incident. It was originally posted at [https://www.loom.com/blog/march-7-incident-update]() and is also [available on archive.today](http://archive.today/Miteg).
+Below is a copy of the public blog post following Loom's March 7, 2023 caching incident. It was originally posted at [https://www.loom.com/blog/march-7-incident-update](https://www.loom.com/blog/march-7-incident-update) and is also [available on archive.today](http://archive.today/Miteg).
 
 # March 7th, 2023 Incident update: cache configuration change leading to account vulnerability
 

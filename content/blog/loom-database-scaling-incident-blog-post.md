@@ -2,7 +2,7 @@
 date: 2026-04-10
 ---
 
-Below is a copy of the public postmortem following Loom's October 27, 2025 database scaling incident. It was originally posted at [https://loom.status.atlassian.com/incidents/t2nvjx3knbb4]().
+Below is a copy of the public postmortem following Loom's October 27, 2025 database scaling incident. It was originally posted at [https://loom.status.atlassian.com/incidents/t2nvjx3knbb4](https://loom.status.atlassian.com/incidents/t2nvjx3knbb4).
 
 # Loom performance degraded
 
