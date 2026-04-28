@@ -1944,3 +1944,4 @@
 1777343782 https://github.com/microsoft/VibeVoice
 1777349056 https://ersc.io/
 1777406458 https://mitchellh.com/writing/ghostty-leaving-github
+1777411513 https://linear.app/now/how-we-hire-at-linear
