@@ -1942,3 +1942,4 @@
 1777143808 https://www.intercom.com/blog/ai-is-approving-our-pull-requests-heres-how-we-made-it-safe/
 1777244586 https://timzaman.com/getting-into-ai-infra
 1777343782 https://github.com/microsoft/VibeVoice
+1777349056 https://ersc.io/
