@@ -1943,3 +1943,4 @@
 1777244586 https://timzaman.com/getting-into-ai-infra
 1777343782 https://github.com/microsoft/VibeVoice
 1777349056 https://ersc.io/
+1777406458 https://mitchellh.com/writing/ghostty-leaving-github
