@@ -1953,3 +1953,4 @@
 1777525534 https://parallel.ai/
 1777554237 https://orchid.ai/
 1777558493 https://blog.cloudflare.com/agents-stripe-projects/
+1777564394 https://jessitron.com/2026/04/29/span-or-attribute-in-opentelemetry-custom-instrumentation/
