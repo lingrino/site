@@ -1950,3 +1950,4 @@
 1777417338 https://maggieappleton.com/zero-alignment/
 1777436863 https://www.coreauto.com/
 1777525410 https://github.com/stripe/link-cli
+1777525534 https://parallel.ai/
