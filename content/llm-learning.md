@@ -4,6 +4,8 @@ description: my resources for learning how llms work and how to optimize them
 template: page
 ---
 
+my resources for learning how llms work and how to optimize them
+
 ## writing
 
 - [jeff dean, sanjay ghemawat - performance hints](https://abseil.io/fast/hints.html)
