@@ -1960,3 +1960,4 @@
 1777705596 https://openai.com/index/where-the-goblins-came-from/
 1777838230 https://seangoedecke.com/staff-engineer-archetypes/
 1777838867 https://perfloop.ai/
+1777839393 https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/
