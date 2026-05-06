@@ -1963,3 +1963,4 @@
 1777839393 https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/
 1777842475 https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html?smid=nytcore-ios-share
 1777849273 https://getcasa.com/
+1778042077 https://planetscale.com/blog/transparency-in-benchmarking
