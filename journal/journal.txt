@@ -1973,3 +1973,4 @@
 1778477642 https://antirez.com/news/164
 1778479529 https://crawshaw.io/blog/agent-principal-agent
 1778479705 https://www.seangoedecke.com/notes-on-incidents/
+1778479827 https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/
