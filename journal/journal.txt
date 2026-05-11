@@ -1972,3 +1972,4 @@
 1778472470 https://district.net/
 1778477642 https://antirez.com/news/164
 1778479529 https://crawshaw.io/blog/agent-principal-agent
+1778479705 https://www.seangoedecke.com/notes-on-incidents/
