@@ -1976,3 +1976,4 @@
 1778479827 https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/
 1778513196 https://openai.com/index/openai-launches-the-deployment-company/
 1778607530 https://jmduke.com/posts/llm-born.html
+1778733967 https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/
