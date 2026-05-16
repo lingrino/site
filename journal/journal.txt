@@ -1978,3 +1978,4 @@
 1778607530 https://jmduke.com/posts/llm-born.html
 1778733967 https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/
 1778793771 https://github.com/raindrop-ai/workshop
+1778900928 https://www.jmduke.com/posts/no-more-redis.html
