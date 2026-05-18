@@ -1982,3 +1982,4 @@
 1779077247 https://jxnl.github.io/blog/writing/2026/05/10/codex-maxxing/
 1779119343 https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/
 1779123518 https://www.browserbase.com/blog/what-is-firecracker
+1779124360 https://www.anthropic.com/news/anthropic-acquires-stainless
