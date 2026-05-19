@@ -1985,3 +1985,4 @@
 1779124360 https://www.anthropic.com/news/anthropic-acquires-stainless
 1779141070 https://vladfeinberg.com/2026/05/10/how-to-land-a-job-at-a-frontier-lab.html
 1779142091 https://brandur.org/nanoglyphs/051-that-was-fast
+1779164673 https://blog.cloudflare.com/cyber-frontier-models/
