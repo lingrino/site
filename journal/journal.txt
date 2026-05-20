@@ -1987,3 +1987,4 @@
 1779142091 https://brandur.org/nanoglyphs/051-that-was-fast
 1779164673 https://blog.cloudflare.com/cyber-frontier-models/
 1779204708 https://index.parallel.ai/
+1779243614 https://clocks.brianmoore.com/
