@@ -1990,3 +1990,4 @@
 1779243614 https://clocks.brianmoore.com/
 1779295260 http://brooker.co.za/blog/2026/05/18/whats-easy-whats-hard.html
 1779395703 https://www.theintrinsicperspective.com/p/how-to-teach-your-two-year-old-to
+1779463089 https://newsletter.vickiboykis.com/archive/tagging-my-blog-posts-with-bertopic-and-llms/
