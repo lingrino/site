@@ -1992,3 +1992,4 @@
 1779395703 https://www.theintrinsicperspective.com/p/how-to-teach-your-two-year-old-to
 1779463089 https://newsletter.vickiboykis.com/archive/tagging-my-blog-posts-with-bertopic-and-llms/
 1779463185 https://go.dev/blog/pkgsite-api
+1779592773 https://en.wikipedia.org/wiki/Information_cascade
