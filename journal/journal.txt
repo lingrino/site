@@ -1994,3 +1994,4 @@
 1779463185 https://go.dev/blog/pkgsite-api
 1779592773 https://en.wikipedia.org/wiki/Information_cascade
 1779603009 https://yaoyue.org/blog/2026-oncall/
+1779641382 https://amplabs.com/
