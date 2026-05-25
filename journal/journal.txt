@@ -1999,3 +1999,4 @@
 1779641733 https://sockpuppet.org/blog/2026/05/12/emacsification/
 1779643078 https://www.agentation.com/
 1779725409 https://jmduke.com/posts/be-careful-what-you-make-easier.html
+1779725863 http://antirez.com/news/167
