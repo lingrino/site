@@ -2001,3 +2001,4 @@
 1779725409 https://jmduke.com/posts/be-careful-what-you-make-easier.html
 1779725863 http://antirez.com/news/167
 1779765784 https://www.jefftk.com/p/donating-80-while-it-still-counts
+1779807968 https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/
