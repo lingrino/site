@@ -2004,3 +2004,4 @@
 1779807968 https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/
 1779895115 https://www.anthropic.com/engineering/how-we-contain-claude
 1779897459 https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
+1779898860 https://newaesthetics.art/grants
