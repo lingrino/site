@@ -2007,3 +2007,4 @@
 1779898860 https://newaesthetics.art/grants
 1779923525 https://medium.com/airbnb-engineering/improving-istio-propagation-delay-d4da9b5b9f90
 1779923552 https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start
+1779923589 https://cursor.com/blog/fast-regex-search
