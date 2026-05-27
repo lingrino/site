@@ -2005,3 +2005,4 @@
 1779895115 https://www.anthropic.com/engineering/how-we-contain-claude
 1779897459 https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
 1779898860 https://newaesthetics.art/grants
+1779923525 https://medium.com/airbnb-engineering/improving-istio-propagation-delay-d4da9b5b9f90
