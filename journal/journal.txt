@@ -2010,3 +2010,4 @@
 1779923589 https://cursor.com/blog/fast-regex-search
 1779923608 https://openai.com/index/harness-engineering/
 1779982434 https://www.lastweekinaws.com/blog/reading-observability-tools-thats-a-robots-job/
+1779984249 https://dx13.co.uk/articles/2023/07/27/cpu-stalls/
