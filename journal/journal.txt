@@ -2012,3 +2012,4 @@
 1779982434 https://www.lastweekinaws.com/blog/reading-observability-tools-thats-a-robots-job/
 1779984249 https://dx13.co.uk/articles/2023/07/27/cpu-stalls/
 1780023087 https://www.theoceancompany.com/
+1780024407 https://www.shiftapp.nyc/
