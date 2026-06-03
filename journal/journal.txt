@@ -2024,3 +2024,4 @@
 1780279544 https://dubroy.com/blog/fast-is-better-than-slow/
 1780280588 https://apenwarr.ca/log/20260531
 1780361762 https://www.tobyord.com/writing/inefficiency-of-reinforcement-learning
+1780529147 https://burntsushi.net/encephalitis/
