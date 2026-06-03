@@ -20,6 +20,8 @@ jobs:
 
           # remove tracking parameters
           clean_url=$(echo "$clean_url" | sed -E 's/[&?]ref=[^&]*//g')
+          clean_url=$(echo "$clean_url" | sed -E 's/[&?]reflink=[^&]*//g')
+          clean_url=$(echo "$clean_url" | sed -E 's/[&?]st=[^&]*//g')
           clean_url=$(echo "$clean_url" | sed -E 's/[&?]utm_[^&]*=[^&]*//g')
           clean_url=$(echo "$clean_url" | sed -E 's/[&?]source=[^&]*//g')
           clean_url=$(echo "$clean_url" | sed -E 's/[&?]medium=[^&]*//g')
