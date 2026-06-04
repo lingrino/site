@@ -2026,3 +2026,4 @@
 1780361762 https://www.tobyord.com/writing/inefficiency-of-reinforcement-learning
 1780529147 https://burntsushi.net/encephalitis/
 1780556441 https://ollie.ai/
+1780591756 https://www.anthropic.com/institute/recursive-self-improvement
