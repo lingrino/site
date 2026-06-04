@@ -2028,3 +2028,4 @@
 1780556441 https://ollie.ai/
 1780591756 https://www.anthropic.com/institute/recursive-self-improvement
 1780593376 https://voidzero.dev/posts/voidzero-cloudflare
+1780615695 https://github.com/anthropics/defending-code-reference-harness
