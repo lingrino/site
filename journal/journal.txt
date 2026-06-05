@@ -2030,3 +2030,4 @@
 1780593376 https://voidzero.dev/posts/voidzero-cloudflare
 1780615695 https://github.com/anthropics/defending-code-reference-harness
 1780617752 https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future
+1780684257 https://www.jefftk.com/p/securebio-detection-is-hiring-software-engineers
