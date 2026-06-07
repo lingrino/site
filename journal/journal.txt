@@ -2032,3 +2032,4 @@
 1780617752 https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future
 1780684257 https://www.jefftk.com/p/securebio-detection-is-hiring-software-engineers
 1780808303 https://surfingcomplexity.blog/2026/06/06/i-cant-bear-to-read-ai-generated-prose/
+1780861372 https://blog.exe.dev/replace-your-ci
