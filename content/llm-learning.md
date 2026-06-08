@@ -27,7 +27,10 @@ my resources for learning how llms work and how to optimize them
 - [sankalp shubham - how prompt caching works - paged attention and automatic prefix caching plus practical tips](https://sankalp.bearblog.dev/how-prompt-caching-works/)
 - [sam rose - prompt caching: 10x cheaper llm tokens, but how?](https://ngrok.com/blog/prompt-caching)
 - [max mynter - becoming a research engineer at a big llm lab -- 18 months of strategic career development](https://www.maxmynter.com/pages/blog/jobhunt)
+- [0xkato - how llms actually work](https://www.0xkato.xyz/how-llms-actually-work/)
 
 ## videos
 
 - [reiner pope - lecture on how llms are trained and served](https://www.youtube.com/watch?v=xmkSf5IS-zw) - [accompanying flashcards](https://reiner-flashcards.vercel.app/)
+- [reiner pope - chip design from the bottom up](https://www.youtube.com/watch?v=oIk3R-sMX5o)
+- [eric jang - what rebuilding alphago teaches us about self-play, rl, and future of llms](https://www.youtube.com/watch?v=X_ZVSPcZhtw)
