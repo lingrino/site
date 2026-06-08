@@ -2036,3 +2036,4 @@
 1780861580 http://antirez.com/news/168
 1780870882 https://seangoedecke.com/doing-nothing-at-work/
 1780902754 https://www.sailresearch.com/
+1780944933 https://www.dwarkesh.com/p/the-sample-efficiency-black-hole
