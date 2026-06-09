@@ -2075,3 +2075,4 @@
 1780991135 https://openai.com/index/built-to-benefit-everyone-our-plan/
 1780991652 https://www.youtube.com/watch?v=ASn1rx6Ne3A
 1780991825 https://www.apurvamehta.com/blog/our-first-customers-were-the-exception
+1781025183 https://www.anthropic.com/news/claude-fable-5-mythos-5
