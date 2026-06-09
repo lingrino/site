@@ -2072,3 +2072,4 @@
 1780949741 https://www.seangoedecke.com/working-with-product-managers/
 1780963677 https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale/
 1780984557 https://00nicolette.substack.com/p/learning-software-engineering-while
+1780991135 https://openai.com/index/built-to-benefit-everyone-our-plan/
