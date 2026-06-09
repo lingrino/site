@@ -2077,3 +2077,4 @@
 1780991652 https://www.youtube.com/watch?v=ASn1rx6Ne3A
 1780991825 https://www.apurvamehta.com/blog/our-first-customers-were-the-exception
 1781025183 https://www.anthropic.com/news/claude-fable-5-mythos-5
+1781036352 https://clintondreisbach.com/articles/2026-06-09-scraping-against-the-sky/
