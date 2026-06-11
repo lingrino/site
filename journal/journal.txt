@@ -2086,3 +2086,4 @@
 1781195115 https://planetscale.com/blog/the-only-scalable-delete
 1781195626 https://zed.dev/blog/introducing-deltadb
 1781213630 https://greylock.com/greymatter/voice-agents-easy-to-use-hard-to-build/
+1781213688 https://www.baseten.co/blog/the-fastest-whisper-transcription-with-streaming-and-diarization/#the-fastest-whisper-transcription-with-diarization
