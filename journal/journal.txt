@@ -2085,3 +2085,4 @@
 1781194455 https://news.xbox.com/en-us/2026/06/10/next-100-days-xbox-reset/
 1781195115 https://planetscale.com/blog/the-only-scalable-delete
 1781195626 https://zed.dev/blog/introducing-deltadb
+1781213630 https://greylock.com/greymatter/voice-agents-easy-to-use-hard-to-build/
