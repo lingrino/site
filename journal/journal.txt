@@ -2087,3 +2087,4 @@
 1781195626 https://zed.dev/blog/introducing-deltadb
 1781213630 https://greylock.com/greymatter/voice-agents-easy-to-use-hard-to-build/
 1781213688 https://www.baseten.co/blog/the-fastest-whisper-transcription-with-streaming-and-diarization/#the-fastest-whisper-transcription-with-diarization
+1781218260 https://blog.janestreet.com/formal-methods-at-jane-street-index/
