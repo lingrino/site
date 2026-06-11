@@ -2083,3 +2083,4 @@
 1781119700 https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/
 1781146958 https://darioamodei.com/post/policy-on-the-ai-exponential
 1781194455 https://news.xbox.com/en-us/2026/06/10/next-100-days-xbox-reset/
+1781195115 https://planetscale.com/blog/the-only-scalable-delete
