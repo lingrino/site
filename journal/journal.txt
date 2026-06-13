@@ -2091,3 +2091,4 @@
 1781234934 https://linear.app/changelog/2026-06-11-coding-sessions
 1781291592 https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious
 1781317979 https://www.anthropic.com/news/fable-mythos-access
+1781372692 https://unsung.aresluna.org/not-slow-and-not-steady
