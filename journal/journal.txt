@@ -2090,3 +2090,4 @@
 1781218260 https://blog.janestreet.com/formal-methods-at-jane-street-index/
 1781234934 https://linear.app/changelog/2026-06-11-coding-sessions
 1781291592 https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious
+1781317979 https://www.anthropic.com/news/fable-mythos-access
