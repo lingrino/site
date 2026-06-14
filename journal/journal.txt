@@ -2094,3 +2094,4 @@
 1781372692 https://unsung.aresluna.org/not-slow-and-not-steady
 1781381453 https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
 1781416791 https://www.youtube.com/watch?v=-jnwTZ789V0
+1781463803 https://yosefk.com/blog/doing-everyone-elses-job.html
