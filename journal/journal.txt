@@ -341,7 +341,7 @@
 1691305200 https://github.com/doitintl/kube-no-trouble
 1691478000 https://github.com/golang/go/issues/61023#issuecomment-1610605569
 1691650800 https://ferd.ca/carrots-sticks-and-making-things-worse.html
-1691650800 https://www.honeycomb.io/anything-but-tech-debt
+1691650800 https://www.honeycomb.io/blog/anything-but-tech-debt
 1691650800 https://www.hashicorp.com/license-faq#What-did-HashiCorp-announce-today-(Aug-10)
 1691823600 https://www.theverge.com/2023/8/12/23828781/video-call-chat-revolution-dead-zoom-google-meet-apps
 1691996400 https://www.edbatista.com/2023/08/surfacing-defensiveness.html
@@ -382,7 +382,7 @@
 1694502000 https://mitchellh.com/writing/ghostty-and-useful-zig-patterns
 1694761200 https://www.submarinecablemap.com/
 1694761200 https://www.wired.com/1996/12/ffglass/
-1694761200 https://www.cloudping.co/grid
+1694761200 https://www.cloudping.co/
 1694847600 https://earthly.dev/blog/shutting-down-earthly-ci/
 1694847600 https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html
 1694847600 https://www.enterprisedb.com/postgres-tutorials/why-you-should-use-connection-pooling-when-setting-maxconnections-postgres
@@ -514,7 +514,7 @@
 1706169600 https://surfingcomplexity.blog/2024/01/24/negotiability-is-non-negotiable/
 1706601600 https://danluu.com/cruise-report/
 1706688000 https://www.edbatista.com/2024/01/handing-off-to-a-new-ceo.html
-1707033600 https://tylerhogge.com/2024/01/29/a-few-thoughts-on-intensity/
+1707033600 https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/
 1707033600 https://danwang.co/2023-letter/
 1707033600 https://commoncog.com/mental-strength-judo-life/
 1707033600 https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project
@@ -597,10 +597,10 @@
 1711695600 https://tailscale.com/blog/tls-outage-20240307
 1711695600 https://robinrendle.com/notes/the-other-side/
 1711782000 https://hardcoresoftware.learningbyshipping.com/p/216-united-states-v-apple-complaint
-1711782000 https://founder-fodder.ghost.io/good-stewardship-in-slack/
+1711782000 https://koolaidfactory.com/good-stewardship-in-slack/
 1711954800 https://oxide.computer/blog/engineering-culture
 1711954800 https://research.swtch.com/xz-timeline
-1712127600 https://jmduke.com/posts/essays/weird-tests-tacit-knowledge
+1712127600 https://www.jmduke.com/posts/weird-tests-tacit-knowledge.html
 1712214000 https://mitchellh.com/writing/polar
 1712300400 https://status.hashicorp.com/incidents/b04b5y620pgr
 1712386800 https://planetscale.com/blog/how-planetscale-makes-schema-changes
@@ -642,7 +642,7 @@
 1714978800 https://www.getlago.com/
 1714978800 https://cal.com/
 1714978800 https://jmduke.com/posts/microblog/produce-value/
-1714978800 https://jmduke.com/posts/essays/two-years/
+1714978800 https://www.jmduke.com/posts/two-years.html
 1715065200 https://www.newyorker.com/news/annals-of-communications/is-hunterbrook-media-a-news-outlet-or-a-hedge-fund
 1715065200 https://asteriskmag.com/issues/06/debugging-tech-journalism
 1715065200 https://www.bitsaboutmoney.com/archive/the-business-of-wallets/
@@ -790,7 +790,7 @@
 1724137200 https://en.wikipedia.org/wiki/Wicked_problem
 1724223600 https://firehydrant.com/blog/press-release-firehydrant-acquires-blameless-to-further-solidify-enterprise/
 1724396400 https://www.theverge.com/2024/8/23/24226830/elon-musk-email-x-twitter-stock-grants
-1724482800 https://arenamag.com/2024/07/31/playing-with-guns-and-phones/
+1724482800 https://arenamag.com/articles/playing-with-guns-and-phones
 1724482800 https://asteriskmag.com/issues/05/michael-lewis-s-blind-side
 1724482800 https://dune.fandom.com/wiki/Butlerian_Jihad
 1724482800 https://muratbuffalo.blogspot.com/2024/08/looming-liability-machines.html
@@ -1063,7 +1063,7 @@
 1739692800 https://blog.lawrencejones.dev/ai-dont-need-python/
 1739692800 https://engineering.fb.com/2025/02/14/connectivity/project-waterworth-ai-subsea-infrastructure/
 1739779200 http://blog.jgc.org/2025/02/i-have-come-to-loath-acronyms.html
-1739952000 https://www.clay.com/community-equity-offering
+1739952000 https://www.clay.com/blog/community-equity-offering
 1739952000 https://jzhao.xyz/
 1740038400 https://huggingface.co/spaces/nanotron/ultrascale-playbook
 1740124800 https://nyadgar.com/posts/scaling-grpc-with-kubernetes-using-go/
@@ -1149,7 +1149,7 @@
 1743836400 http://antirez.com/news/149
 1743922800 https://www.edbatista.com/2025/04/on-leadership-transitions-and-public-narratives.html
 1744182000 https://github.com/bensadeh/tailspin
-1744268400 https://tldraw.dev/blog/announcements/announcing-tldraw-series-a
+1744268400 https://tldraw.dev/blog/announcing-tldraw-series-a
 1744268400 https://incident.io/blog/incident.io-raises-62m
 1744268400 https://sfstandard.com/2025/04/04/rippling-prasanna-sankar-wife-viral-custody-battle/
 1744354800 https://velvetshark.com/ai-company-logos-that-look-like-buttholes
@@ -1701,7 +1701,7 @@
 1768503254 https://blog.cloudflare.com/cname-a-record-order-dns-standards/
 1768553841 https://github.com/tldraw/tldraw/issues/7695
 1768611376 https://openai.com/index/the-truth-elon-left-out/
-1768611387 https://usefulfictions.substack.com/p/the-seam-through-the-center-of-things&triedRedirect=true
+1768611387 https://usefulfictions.substack.com/p/the-seam-through-the-center-of-things
 1768614178 https://www.interfacecraft.dev/
 1768628281 https://seangoedecke.com/gas-and-ralph/
 1768628457 https://blog.cloudflare.com/astro-joins-cloudflare/
