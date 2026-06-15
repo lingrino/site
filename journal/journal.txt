@@ -2103,3 +2103,4 @@
 1781552061 https://www.mechanize.work/blog/cheap-rl-tasks-will-waste-compute/
 1781552831 https://www.mechanize.work/blog/life-after-work/
 1781553520 https://www.mechanize.work/blog/unfalsifiable-stories-of-doom/
+1781558850 https://www.seangoedecke.com/ai-gpus-live-longer-than-three-years/
