@@ -2100,3 +2100,4 @@
 1781505106 https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/
 1781512644 https://www.mechanize.work/blog/sweatshop-data-is-over/
 1781512928 https://www.mechanize.work/blog/medical-ai-isnt-the-bottleneck-to-medical-progress/
+1781552061 https://www.mechanize.work/blog/cheap-rl-tasks-will-waste-compute/
