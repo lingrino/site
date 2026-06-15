@@ -2102,3 +2102,4 @@
 1781512928 https://www.mechanize.work/blog/medical-ai-isnt-the-bottleneck-to-medical-progress/
 1781552061 https://www.mechanize.work/blog/cheap-rl-tasks-will-waste-compute/
 1781552831 https://www.mechanize.work/blog/life-after-work/
+1781553520 https://www.mechanize.work/blog/unfalsifiable-stories-of-doom/
