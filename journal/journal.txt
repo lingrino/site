@@ -2104,3 +2104,4 @@
 1781552831 https://www.mechanize.work/blog/life-after-work/
 1781553520 https://www.mechanize.work/blog/unfalsifiable-stories-of-doom/
 1781558850 https://www.seangoedecke.com/ai-gpus-live-longer-than-three-years/
+1781558963 https://lethain.com/revised-rules-of-engineering-leadership/
