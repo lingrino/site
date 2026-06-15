@@ -2097,3 +2097,4 @@
 1781463803 https://yosefk.com/blog/doing-everyone-elses-job.html
 1781464456 https://www.xfra.ai/
 1781503593 https://www.mechanize.work/blog/how-to-fully-automate-software-engineering/
+1781505106 https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/
