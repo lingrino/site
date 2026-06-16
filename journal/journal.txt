@@ -2108,3 +2108,4 @@
 1781584775 https://chrisgillett.org/water-utility-state
 1781631878 https://cursor.com/origin
 1781639762 https://www.youtube.com/watch?v=UpO70AJGdJ8
+1781645956 https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/
