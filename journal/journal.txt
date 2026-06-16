@@ -2113,3 +2113,4 @@
 1781648024 https://gbaeval.com/blog/environment-design
 1781648918 https://gbaeval.com/blog/grading-iteration
 1781649432 https://gbaeval.com/blog/replay-score-bands
+1781650175 https://gbaeval.com/blog/replay-scoring
