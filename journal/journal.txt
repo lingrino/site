@@ -2105,3 +2105,4 @@
 1781553520 https://www.mechanize.work/blog/unfalsifiable-stories-of-doom/
 1781558850 https://www.seangoedecke.com/ai-gpus-live-longer-than-three-years/
 1781558963 https://lethain.com/revised-rules-of-engineering-leadership/
+1781584775 https://chrisgillett.org/water-utility-state
