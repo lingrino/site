@@ -2115,3 +2115,4 @@
 1781649432 https://gbaeval.com/blog/replay-score-bands
 1781650175 https://gbaeval.com/blog/replay-scoring
 1781650450 https://gbaeval.com/blog/grok-reward-hacking
+1781678473 https://planetscale.com/blog/the-feedback-loops-behind-kubernetes
