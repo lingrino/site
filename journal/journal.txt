@@ -2120,3 +2120,4 @@
 1781768648 https://yaoyue.org/blog/2026-slowdown/
 1781774403 https://otty.sh/
 1781802962 https://vercel.com/design.md
+1781803031 https://lettera.md/
