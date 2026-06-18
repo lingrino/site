@@ -2118,3 +2118,4 @@
 1781678473 https://planetscale.com/blog/the-feedback-loops-behind-kubernetes
 1781751820 https://medium.com/@NoamShazeer/shape-suffixes-good-coding-style-f836e72e24fd
 1781768648 https://yaoyue.org/blog/2026-slowdown/
+1781774403 https://otty.sh/
