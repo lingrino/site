@@ -2124,3 +2124,4 @@
 1781809332 https://transitions.dev/
 1781809406 https://www.midjourney.com/medical/blogpost
 1781841565 https://blog.bear.app/2026/06/introducing-lettera-a-native-markdown-editor-for-mac-now-in-beta/
+1781841642 https://thymer.com/
