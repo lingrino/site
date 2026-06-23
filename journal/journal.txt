@@ -2130,3 +2130,4 @@
 1781900908 https://brooker.co.za/blog/2026/06/19/waiting.html
 1782083115 https://blog.calif.io/p/apple-internals-swift-in-the-kernel
 1782187430 https://alisawuffles.github.io/blog/job-search/
+1782187677 https://caseyhandmer.wordpress.com/2026/06/22/in-defense-of-the-marginal-baby/
