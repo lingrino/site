@@ -2129,3 +2129,4 @@
 1781900784 https://brooker.co.za/blog/2026/06/18/my-blog-and-ai.html
 1781900908 https://brooker.co.za/blog/2026/06/19/waiting.html
 1782083115 https://blog.calif.io/p/apple-internals-swift-in-the-kernel
+1782187430 https://alisawuffles.github.io/blog/job-search/
