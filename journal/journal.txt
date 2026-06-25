@@ -2141,3 +2141,4 @@
 1782368330 https://aside.com/
 1782368799 https://www.warpstream.com/blog/a-brief-rant-about-the-new-product-development-lifecycle
 1782368911 https://www.baseten.co/blog/how-we-built-the-worlds-fastest-api-for-glm-52/
+1782370323 https://yongzx.github.io/blog/2026/06/24/job-search/
