@@ -2133,3 +2133,4 @@
 1782187677 https://caseyhandmer.wordpress.com/2026/06/22/in-defense-of-the-marginal-baby/
 1782193019 https://tastelabs.com/blog/a-manifesto-for-judgement
 1782321916 https://interceptfund.substack.com/p/ending-respiratory-infections
+1782364372 https://blog.exe.dev/ios-development
