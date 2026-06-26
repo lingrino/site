@@ -2143,3 +2143,4 @@
 1782368911 https://www.baseten.co/blog/how-we-built-the-worlds-fastest-api-for-glm-52/
 1782370323 https://yongzx.github.io/blog/2026/06/24/job-search/
 1782407158 https://www.daytona.io/dotfiles/updates/daytona-is-going-closed-source
+1782493098 https://www.seangoedecke.com/ai-inference-is-obviously-profitable/
