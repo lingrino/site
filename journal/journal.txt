@@ -2150,3 +2150,4 @@
 1782590541 https://worksinprogress.co/issue/why-american-data-centers-cant-plug-in/
 1782600793 https://www.dwarkesh.com/p/the-next-paradigm
 1782615664 https://www.quilt.sh/
+1782839840 https://www.etched.com/
