@@ -2154,3 +2154,4 @@
 1782843073 https://www.anthropic.com/news/claude-sonnet-5
 1782874207 https://oasisdevices.com/
 1782881652 https://www.anthropic.com/news/redeploying-fable-5
+1782948387 https://blog.exe.dev/adding-features-without-interrupting-network-connections
