@@ -2152,3 +2152,4 @@
 1782615664 https://www.quilt.sh/
 1782839840 https://www.etched.com/
 1782843073 https://www.anthropic.com/news/claude-sonnet-5
+1782874207 https://oasisdevices.com/
