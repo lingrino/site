@@ -2153,3 +2153,4 @@
 1782839840 https://www.etched.com/
 1782843073 https://www.anthropic.com/news/claude-sonnet-5
 1782874207 https://oasisdevices.com/
+1782881652 https://www.anthropic.com/news/redeploying-fable-5
