@@ -2155,3 +2155,4 @@
 1782874207 https://oasisdevices.com/
 1782881652 https://www.anthropic.com/news/redeploying-fable-5
 1782948387 https://blog.exe.dev/adding-features-without-interrupting-network-connections
+1783017930 https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
