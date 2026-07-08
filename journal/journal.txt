@@ -2165,3 +2165,4 @@
 1783485609 https://matduggan.com/clickhouse-is-winning-the-observability-wars/
 1783523787 https://blog.cloudflare.com/meerkat-introduction/
 1783524524 https://entire.io/blog/an-entirely-new-git-hosting-network
+1783525029 https://registerspill.thorstenball.com/p/ownership
