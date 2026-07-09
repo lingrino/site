@@ -2168,3 +2168,4 @@
 1783525029 https://registerspill.thorstenball.com/p/ownership
 1783546802 https://planetscale.com/blog/deadlocks-and-downtime
 1783578931 https://bun.com/blog/bun-in-rust
+1783625850 https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html
