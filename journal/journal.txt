@@ -2167,3 +2167,4 @@
 1783524524 https://entire.io/blog/an-entirely-new-git-hosting-network
 1783525029 https://registerspill.thorstenball.com/p/ownership
 1783546802 https://planetscale.com/blog/deadlocks-and-downtime
+1783578931 https://bun.com/blog/bun-in-rust
