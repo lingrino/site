@@ -2170,3 +2170,4 @@
 1783578931 https://bun.com/blog/bun-in-rust
 1783625850 https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html
 1783634064 https://depot.dev/blog/now-available-depot-code-beta
+1783654527 https://rachelbythebay.com/w/2026/07/09/pipe/
