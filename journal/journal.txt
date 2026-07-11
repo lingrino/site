@@ -2175,3 +2175,4 @@
 1783801044 https://lethain.com/make-no-assumptions/
 1783801298 https://ianreppel.org/how-successful-companies-go-blind/
 1783802140 https://thinkingmachines.ai/blog/the-future-worth-building-is-human/
+1783802295 https://lilianweng.github.io/posts/2026-07-04-harness/
