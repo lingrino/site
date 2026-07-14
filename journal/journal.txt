@@ -2177,3 +2177,4 @@
 1783802140 https://thinkingmachines.ai/blog/the-future-worth-building-is-human/
 1783802295 https://lilianweng.github.io/posts/2026-07-04-harness/
 1783943942 http://antirez.com/news/169
+1784011121 https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/
