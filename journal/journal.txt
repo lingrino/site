@@ -2178,3 +2178,4 @@
 1783802295 https://lilianweng.github.io/posts/2026-07-04-harness/
 1783943942 http://antirez.com/news/169
 1784011121 https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/
+1784057179 https://seangoedecke.com/playing-politics/
