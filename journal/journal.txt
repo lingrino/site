@@ -2180,3 +2180,4 @@
 1784011121 https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/
 1784057179 https://seangoedecke.com/playing-politics/
 1784068443 https://github.com/atuinsh/atuin-ai-server
+1784241363 https://unsung.aresluna.org/a-good-kind-of-an-update-the-responses
