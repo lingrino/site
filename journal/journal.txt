@@ -2185,3 +2185,4 @@
 1784264393 https://www.benkuhn.net/lux/
 1784264678 https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds
 1784333133 https://turso.tech/blog/a-new-modern-version-of-postgres-in-rust
+1784338791 https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/
