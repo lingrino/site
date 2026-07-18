@@ -2186,3 +2186,4 @@
 1784264678 https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds
 1784333133 https://turso.tech/blog/a-new-modern-version-of-postgres-in-rust
 1784338791 https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/
+1784394651 https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html
