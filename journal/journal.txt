@@ -2191,3 +2191,4 @@
 1784432264 https://workshop.cjpais.com/projects/transcribe-cpp
 1784485063 https://planetscale.com/blog/making-768-servers-look-like-1
 1784653124 https://post.substack.com/p/against-claudefishing
+1784668969 https://planetscale.com/blog/postgresql-mvcc
