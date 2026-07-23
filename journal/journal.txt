@@ -2193,3 +2193,4 @@
 1784653124 https://post.substack.com/p/against-claudefishing
 1784668969 https://planetscale.com/blog/postgresql-mvcc
 1784673231 https://openai.com/index/hugging-face-model-evaluation-security-incident/
+1784776875 https://antirez.com/news/170
