@@ -2195,3 +2195,4 @@
 1784673231 https://openai.com/index/hugging-face-model-evaluation-security-incident/
 1784776875 https://antirez.com/news/170
 1784781271 https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/
+1784897070 https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/
