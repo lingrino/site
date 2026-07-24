@@ -2198,3 +2198,4 @@
 1784897070 https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/
 1784901894 https://seangoedecke.com/llms-reward-expertise/
 1784902003 https://planetscale.com/blog/whats-new-in-postgres-19
+1784904594 https://muratbuffalo.blogspot.com/2026/07/aurora-dsql-scalable-multi-region-oltp.html
