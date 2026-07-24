@@ -2196,3 +2196,4 @@
 1784776875 https://antirez.com/news/170
 1784781271 https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/
 1784897070 https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/
+1784901894 https://seangoedecke.com/llms-reward-expertise/
