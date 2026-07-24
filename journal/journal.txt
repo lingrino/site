@@ -2200,3 +2200,4 @@
 1784902003 https://planetscale.com/blog/whats-new-in-postgres-19
 1784904594 https://muratbuffalo.blogspot.com/2026/07/aurora-dsql-scalable-multi-region-oltp.html
 1784909381 https://fly.io/blog/kurt-scott-money-sprites/
+1784915386 https://unsung.aresluna.org/chromes-breaking-and-entering
