@@ -2197,3 +2197,4 @@
 1784781271 https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/
 1784897070 https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/
 1784901894 https://seangoedecke.com/llms-reward-expertise/
+1784902003 https://planetscale.com/blog/whats-new-in-postgres-19
