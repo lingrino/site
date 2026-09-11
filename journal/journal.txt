@@ -2285,3 +2285,4 @@
 1788893797 https://openai.com/index/navier-stokes-solution/
 1788910314 https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data
 1788991736 https://humanlog.io/
+1789099575 https://ersc.io/blog/what-comes-after-git
