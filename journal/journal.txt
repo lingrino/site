@@ -2287,3 +2287,4 @@
 1788991736 https://humanlog.io/
 1789099575 https://ersc.io/blog/what-comes-after-git
 1789240337 https://planetscale.com/blog/the-lifecycle-of-a-sharded-postgres-query
+1789241140 https://arslan.io/2026/09/11/how-i-manage-my-agents/
