@@ -2290,3 +2290,4 @@
 1789241140 https://arslan.io/2026/09/11/how-i-manage-my-agents/
 1789366780 https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/
 1789507037 https://unsung.aresluna.org/not-everything-needs-to-be-a-round-rect
+1789507098 https://seangoedecke.com/tell-agents-the-why/
