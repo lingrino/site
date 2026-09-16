@@ -2291,3 +2291,4 @@
 1789366780 https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/
 1789507037 https://unsung.aresluna.org/not-everything-needs-to-be-a-round-rect
 1789507098 https://seangoedecke.com/tell-agents-the-why/
+1789567585 https://seangoedecke.com/jev-means-structured-output-is-interesting-again/
