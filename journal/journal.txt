@@ -2301,3 +2301,4 @@
 1789933701 https://www.jmduke.com/posts/engineering-produces-wisdom.html
 1790092861 https://tailscale.com/blog/making-tailscale-faster
 1790153473 https://substratemag.com/dylanpatel/?v=2
+1790195443 https://www.pgedge.com/blog/looking-forward-to-postgres-19-epilogue
