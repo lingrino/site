@@ -2300,3 +2300,4 @@
 1789918272 https://sunilpai.dev/posts/the-senior-engineer-death-spiral/
 1789933701 https://www.jmduke.com/posts/engineering-produces-wisdom.html
 1790092861 https://tailscale.com/blog/making-tailscale-faster
+1790153473 https://substratemag.com/dylanpatel/?v=2
