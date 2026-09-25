@@ -2303,3 +2303,4 @@
 1790153473 https://substratemag.com/dylanpatel/?v=2
 1790195443 https://www.pgedge.com/blog/looking-forward-to-postgres-19-epilogue
 1790268012 https://claude.dev/blog/how-we-made-claude-ai-faster/
+1790377113 https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/
