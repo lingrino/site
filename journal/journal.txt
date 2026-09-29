@@ -2306,3 +2306,4 @@
 1790377113 https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/
 1790529287 https://epoch.ai/publications/the-plunging-price-of-thought
 1790625116 https://github.com/Altimor/flo-state
+1790705997 http://brooker.co.za/blog/2026/09/28/engineering-system-one.html
