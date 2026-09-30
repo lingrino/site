@@ -2309,3 +2309,4 @@
 1790705997 http://brooker.co.za/blog/2026/09/28/engineering-system-one.html
 1790711269 https://blog.bitdrift.io/post/blob-stream-kafka-alternative
 1790737611 https://noxmetals.co/
+1790790090 https://turbopuffer.com/blog/rip-vector-database
