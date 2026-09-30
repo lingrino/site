@@ -2308,3 +2308,4 @@
 1790625116 https://github.com/Altimor/flo-state
 1790705997 http://brooker.co.za/blog/2026/09/28/engineering-system-one.html
 1790711269 https://blog.bitdrift.io/post/blob-stream-kafka-alternative
+1790737611 https://noxmetals.co/
