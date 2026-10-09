@@ -2321,3 +2321,4 @@
 1791320238 https://mitchellh.com/writing/program-status-osc7501
 1791343737 https://openai.com/index/sharing-ai-progress-in-mathematics/
 1791416047 https://usejog.com/
+1791574916 https://planetscale.com/blog/tin-v106
