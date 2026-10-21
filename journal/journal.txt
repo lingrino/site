@@ -2330,3 +2330,4 @@
 1792553952 https://openai.com/index/low-resource-programming-languages
 1792555586 https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkesh-patel-tyler-cowen.html
 1792605984 https://stratechery.com/2026/presented-by-stripe/
+1792620337 https://blog.railway.com/p/security-disclosure-wednesday-october-21st
