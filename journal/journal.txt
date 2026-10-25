@@ -2332,3 +2332,4 @@
 1792605984 https://stratechery.com/2026/presented-by-stripe/
 1792620337 https://blog.railway.com/p/security-disclosure-wednesday-october-21st
 1792900833 https://ryo.lu/journal/struggle-together
+1792944120 https://buildingslack.com/salesforce-part-two/
