@@ -2335,3 +2335,4 @@
 1792944120 https://buildingslack.com/salesforce-part-two/
 1792975338 https://danluu.com/ambitious/
 1792978016 https://teendrama.substack.com/p/some-final-words-on-foursquare
+1792978092 https://paxmachina.ai/to-keep-human-judgment-we-need-ai-courts
