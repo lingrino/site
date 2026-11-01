@@ -2341,3 +2341,4 @@
 1793466514 https://lethain.com/adopting-verification-pattern/
 1793466748 https://www.dwarkesh.com/p/lessons-in-power
 1793556911 https://nothinghuman.substack.com/p/some-memories-of-early-anthropic
+1793557356 https://buildingslack.com/salesforce-part-one/
