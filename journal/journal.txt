@@ -2343,3 +2343,4 @@
 1793556911 https://nothinghuman.substack.com/p/some-memories-of-early-anthropic
 1793557356 https://buildingslack.com/salesforce-part-one/
 1793730500 https://namespace.so/blog/mac-at-any-scale
+1793769828 https://typesanitizer.com/blog/scion.html
