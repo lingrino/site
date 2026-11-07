@@ -2345,3 +2345,4 @@
 1793730500 https://namespace.so/blog/mac-at-any-scale
 1793769828 https://typesanitizer.com/blog/scion.html
 1793983732 https://unsung.aresluna.org/mailbag-modular-industrial-dashboards
+1794024444 https://mitchellh.com/writing/libghostty-1-0
