@@ -2347,3 +2347,4 @@
 1793983732 https://unsung.aresluna.org/mailbag-modular-industrial-dashboards
 1794024444 https://mitchellh.com/writing/libghostty-1-0
 1794024707 https://planetscale.com/blog/designing-a-reliable-unplanned-failover
+1794257458 https://paulstamatiou.com/the-leica-reset
