@@ -2349,3 +2349,4 @@
 1794024707 https://planetscale.com/blog/designing-a-reliable-unplanned-failover
 1794257458 https://paulstamatiou.com/the-leica-reset
 1794257821 https://www.benkuhn.net/meditation/
+1794335117 https://aegir.org/words/snail-box
