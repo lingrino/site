@@ -2353,3 +2353,4 @@
 1794338673 https://blog.railway.com/p/incident-report-october-security-incident
 1794356145 https://blog.jgc.org/2026/11/dry-soup-this-holiday-season-you-need.html
 1794520724 https://macrogrants.com/
+1794627522 https://eslint.org/blog/2026/11/retiring-contributor-pool/
