@@ -2354,3 +2354,4 @@
 1794356145 https://blog.jgc.org/2026/11/dry-soup-this-holiday-season-you-need.html
 1794520724 https://macrogrants.com/
 1794627522 https://eslint.org/blog/2026/11/retiring-contributor-pool/
+1794944102 https://cursor.com/blog/security-incident-update
