@@ -2356,3 +2356,4 @@
 1794627522 https://eslint.org/blog/2026/11/retiring-contributor-pool/
 1794944102 https://cursor.com/blog/security-incident-update
 1794958558 https://brooker.co.za/blog/2026/11/16/understanding.html
+1795030203 https://brooker.co.za/blog/2026/11/18/workload-mix.html
