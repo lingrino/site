@@ -2359,3 +2359,4 @@
 1795030203 https://brooker.co.za/blog/2026/11/18/workload-mix.html
 1795114127 https://pierre.computer/writing/on-drawing-icons
 1795209665 https://www.notion.com/a-new-shape-for-work
+1795388292 https://openai.com/index/perplexity-and-intelligence/
