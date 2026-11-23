@@ -2363,3 +2363,4 @@
 1795461314 https://windowsontheory.org/2026/11/23/human-empowerment-in-a-few-fake-graphs/
 1795462622 https://lethain.com/passing-100-prs-in-a-week/
 1795463343 https://blog.google/security/mirror-dimension-for-agents/
+1795475778 https://openai.com/index/introducing-shirudo/
