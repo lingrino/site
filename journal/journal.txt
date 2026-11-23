@@ -2362,3 +2362,4 @@
 1795388292 https://openai.com/index/perplexity-and-intelligence/
 1795461314 https://windowsontheory.org/2026/11/23/human-empowerment-in-a-few-fake-graphs/
 1795462622 https://lethain.com/passing-100-prs-in-a-week/
+1795463343 https://blog.google/security/mirror-dimension-for-agents/
