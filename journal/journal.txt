@@ -2360,3 +2360,4 @@
 1795114127 https://pierre.computer/writing/on-drawing-icons
 1795209665 https://www.notion.com/a-new-shape-for-work
 1795388292 https://openai.com/index/perplexity-and-intelligence/
+1795461314 https://windowsontheory.org/2026/11/23/human-empowerment-in-a-few-fake-graphs/
