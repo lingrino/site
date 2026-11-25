@@ -2364,3 +2364,4 @@
 1795462622 https://lethain.com/passing-100-prs-in-a-week/
 1795463343 https://blog.google/security/mirror-dimension-for-agents/
 1795475778 https://openai.com/index/introducing-shirudo/
+1795584824 https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/
